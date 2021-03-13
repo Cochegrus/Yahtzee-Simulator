@@ -5,4 +5,6 @@ This was simply a self-imposed challenge to see if I could create a form of rudi
 
 There is also currently an issue that arises when you try to play again with the same players. I will look to update this sometime during the summer to ensure easy playability.
 
+The file that runs the main function is "YahtzeeSim.java".
+
 Feel free to take any of my code and adapt it for practice. I doubt any of it could get licensed without getting rid of all Yahtzee references.
